@@ -31,7 +31,7 @@ function myFilter(arr, fnCheck) {
     return arrOutput;
 }
 
-// console.log(myFilter(arrNums, e => e % 2 === 1));
+console.log(myFilter(arrNums, e => e % 2 === 1));
 
 const oddNumbers = arrNums.filter(e => e % 2 === 1);
-console.log(oddNumbers);
+// console.log(oddNumbers);
