@@ -19,4 +19,6 @@ const arr = [
 // console.log(arr.find(e => e.age === 15));
 // console.log(arr.findIndex(e => e.age === 15));
 
-arr.forEach((e, index) => console.log(index + 1 + ': ' + e.name));
+// arr.forEach((e, index) => console.log(index + 1 + ': ' + e.name));
+// console.log(arr.push(1000));
+// arr2 = arr.push(1000);
